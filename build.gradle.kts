@@ -3,7 +3,7 @@ import org.gradle.api.JavaVersion.VERSION_1_8
 plugins {
     `java-gradle-plugin`
     `kotlin-dsl`
-    id("com.gradle.plugin-publish") version "0.21.0"
+    id("com.gradle.plugin-publish") version "1.0.0"
     `maven-publish`
 }
 
